@@ -1,5 +1,5 @@
 ﻿LICENSE
-The font used in this app, newace_diotek_CJK (https://github.com/diodict/newace_diotek_CJK), contains glyphs from the following fonts as well as glyphs created by DIOTEK.
+The font used in this app, newace_diotek_CJK (https://github.com/diodict/newace_diotek_CJK), contains glyphs from the following fonts as well as glyphs created by SELVAS AI.
 And use of this font is permitted under SIL Open Font Licence, Vers 1.1.
 • NanumGothic.ttf  - SIL Open Font License, Version 1.1
 • Droid Arabic Naskh.ttf - Apache License, Version 2.0
@@ -7,12 +7,13 @@ And use of this font is permitted under SIL Open Font Licence, Vers 1.1.
 • Droid Sans Fallback.ttf -Apache License, Version 2.0
 • HanaMinA.ttf -SIL OPEN FONT LICENSE Version 1.1
 • HanaMinB.ttf -SIL OPEN FONT LICENSE Version 1.1
-
+• NotoSans-Regular.ttf - Apache License, Version 2.0
+• NotoSansCJKkr-Regular.otf (v1.002) - SIL OPEN FONT LICENSE Version 1.1
 
 NHN, the creator of NamunGothic,  permits the use of its font under the SIL Open Font Licence, Vers 1.1 shown below.
 Use of Droid fonts is permitted under the Apache licence, also shown below.
 
-   Copyright 2012, 2013, 2014 DIOTEK
+   Copyright 2012, 2013, 2014, 2017 SELVAS AI
 
 ---------------------------------------------------------------------------------------------
 
